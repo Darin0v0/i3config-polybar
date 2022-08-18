@@ -1,3 +1,3 @@
 # i3config-polybar
-i3config + polybar + rafi
+i3config + polybar + rofi
 
