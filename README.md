@@ -3,5 +3,5 @@ i3config + polybar + rofi
   \
   \
   \
-  polybar have polibar and rofi url
+  polybar have polybar and rofi url
   
